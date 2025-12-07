@@ -233,7 +233,7 @@ Backend runs on `http://localhost:5000`.
 ### 6.3 Frontend Setup
 
 ```bash
-cd frontend
+cd client
 npm install
 npm start
 ```
@@ -352,7 +352,7 @@ Simulate receiving and parsing a vendor proposal email (manual submission for de
 }
 ```
 
-#### GET /api/proposals/rfp/:id
+#### GET /api/proposals/rfp/:id/proposals
 
 Get all proposals for an RFP with AI comparison and scoring.
 
