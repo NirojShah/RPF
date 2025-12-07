@@ -179,8 +179,8 @@ Before running the project, ensure you have:
 ### 6.1 Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd rfp-management-system
+git git clone https://github.com/NirojShah/RPF.git
+cd RPF
 ```
 
 ### 6.2 Backend Setup
